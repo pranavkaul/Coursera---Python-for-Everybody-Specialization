@@ -13,3 +13,4 @@ I have covered these courses from the specialization:-
 
 
 ![Cover](https://github.com/pranavkaul/Coursera---Python-for-Everybody-Specialization/blob/master/cover.jpg)
+
